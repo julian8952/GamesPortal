@@ -11,8 +11,28 @@ body {
     border: 1px solid #DDD;
     margin-left: auto;
     margin-right: auto;
+    padding: 0;
+}
+
+.cabezera {
+    background-color: #33A;
+    color: #fff;
+    margin: 0;
+    padding: .5em;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.cabecera__span {
+    color: white;
+    padding-left: 1em;
+    font-size: 1.2rem;
 }
 
 .container h1 {
     font-size: 20px;
+}
+
+.post {
+    padding: 1em;
 }
